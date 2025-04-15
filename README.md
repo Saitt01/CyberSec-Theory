@@ -1,4 +1,4 @@
-# 🧠 Cybersecurity Theory Notes – CompTIA Security+ & Beyond
+# 🧠 Cybersecurity Theory Notes 
 
 ## 🇮🇹 Introduzione
 
