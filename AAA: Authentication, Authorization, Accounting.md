@@ -51,11 +51,6 @@ Tiene traccia di **cosa fa un utente nel sistema**: login, logout, accesso a ris
 
 ---
 
-## 🧠 Note Personali
-> Scrivi qui casi d’uso, analogie o collegamenti con tool reali (es. Active Directory, RADIUS, TACACS+)
-
----
-
 ## 📚 Fonti Consigliate
 - CompTIA Security+ Guide  
 - RFC 2865 (RADIUS)  
@@ -115,11 +110,6 @@ Tracks **what the user does** in the system: logins, logouts, resource access, f
 | Authentication | Identity verification           | Password, MFA, certificates     |
 | Authorization  | Access control                  | ACLs, RBAC, policies            |
 | Accounting     | Activity tracking               | Logs, auditing, session logs    |
-
----
-
-## 🧠 Personal Notes
-> Add real-world examples, tool references (e.g., Active Directory, RADIUS, TACACS+), or use cases.
 
 ---
 
