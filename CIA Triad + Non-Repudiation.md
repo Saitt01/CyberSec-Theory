@@ -63,11 +63,6 @@ Garantisce che una parte **non possa negare** di aver eseguito un'azione (come i
 
 ---
 
-## 🧠 Note Personali
-> Inserisci qui esempi, analogie o domande che ti aiutano a ricordare meglio
-
----
-
 ## 📚 Fonti Consigliate
 - CompTIA Security+ Official Guide
 - OWASP Foundations
@@ -140,10 +135,6 @@ Ensures that an entity **cannot deny** having performed a specific action (e.g.,
 
 ---
 
-## 🧠 Personal Notes
-> Add your own examples, analogies, or questions that help you remember better
-
----
 
 ## 📚 Recommended Sources
 - CompTIA Security+ Official Guide  
